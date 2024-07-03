@@ -3,6 +3,8 @@
 **Description:**
 This repository contains a React-based e-commerce application aimed at providing users with a seamless shopping experience. The application allows users to browse through a catalog of products, add items to a cart, and proceed to checkout. Built with modern technologies such as React, Redux, and React Router, this project emphasizes clean code architecture and follows best practices for React development.
 
+Live Link : https://shopping-cart-byaryan.netlify.app/
+
 **Features:**
 - Browse through a catalog of products
 - Add items to a shopping cart
